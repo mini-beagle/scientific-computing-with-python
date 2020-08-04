@@ -1,5 +1,4 @@
 class Category:
-    test = 'x'
     def __init__(self, category):
         self.cat_name = category
         self.ledger = []
